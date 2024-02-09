@@ -1,4 +1,4 @@
-# Curso de HTML e CSS, faz parte do programa ONE, parceria de Alura + Oracle.
+# Curso de HTML e CSS
 
 ## Ferramentas utilizadas:
 
@@ -8,3 +8,5 @@
 
 * Flex-box
 
+__
+Link: <https://carlacou.github.io/portfolio/>
