@@ -8,7 +8,6 @@
 * CSS
 
 * Flex-box
--
 
 
 Link: <https://carlacou.github.io/portfolio/>
