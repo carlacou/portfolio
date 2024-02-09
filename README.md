@@ -1,6 +1,5 @@
 # Curso de HTML e CSS
-
-__
+___
 
 ## Ferramentas utilizadas:
 
