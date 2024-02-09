@@ -1,5 +1,5 @@
 # Curso de HTML e CSS
-___
+
 
 ## Ferramentas utilizadas:
 
@@ -8,7 +8,7 @@ ___
 * CSS
 
 * Flex-box
-
+-
 
 
 Link: <https://carlacou.github.io/portfolio/>
